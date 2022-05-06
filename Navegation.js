@@ -77,7 +77,7 @@ const MyTabs = () => {
 				name="Creditos"
 				component={AboutScreen}
 				options={{
-					tabBarLabel: "Creditos",
+					tabBarLabel: "Configuracion",
 					tabBarIcon: ({ color, size }) => (
 						<FontAwesome5 name="cat" size={size} color={color} />
 					),
